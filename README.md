@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutzan&label=Profile%20views&color=0e75b6&style=flat" alt="umutzan" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutzan&show_icons=true&locale=en&layout=compact" alt="umutzan" /></p>
+
+
 - 🌱 I’m currently learning **Node.js and MySql**
 
 - 👨‍💻 All of my projects are available at [https://www.umutzan.dev/](https://www.umutzan.dev/)
@@ -26,4 +29,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/umutzan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="umutzan" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutzan&show_icons=true&locale=en&layout=compact" alt="umutzan" /></p>
