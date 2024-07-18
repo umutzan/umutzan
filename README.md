@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutzan&label=Profile%20views&color=0e75b6&style=flat" alt="umutzan" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutzan&show_icons=true&locale=en&layout=compact" alt="umutzan" /></p>
-
 
 - 🌱 I’m currently learning **Node.js and MySql**
 
